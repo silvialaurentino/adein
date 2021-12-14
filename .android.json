@@ -1,0 +1,1 @@
+{"layout": null, "package": "ade.in", "include_pil": false, "numeric_version": 1, "expansion": false, "name": "A D E I N", "update_always": true, "source": false, "icon_name": "A D E I N", "version": "1.0", "heap_size": "3", "update_icons": true, "permissions": ["VIBRATE", "INTERNET"], "include_sqlite": false, "store": "all", "orientation": "sensorLandscape"}
